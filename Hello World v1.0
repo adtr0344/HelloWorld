@@ -1,0 +1,7 @@
+package myfirsthelloworldpate;
+public class MyFirstHelloWorldPate {
+// My Hello World - Pate Llewellyn Sep 2020
+    public static void main(String[] args) {
+    System.out.println("Biggie Cheese is the greatest being to ever exist.");
+         }   
+}
